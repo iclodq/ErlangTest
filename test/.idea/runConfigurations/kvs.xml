@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="kvs" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application" singleton="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <module name="test" />
+    <option name="debugOptions">
+      <ErlangDebugOptions>
+        <option name="autoUpdateModulesNotToInterpret" value="true" />
+        <option name="modulesNotToInterpret">
+          <set />
+        </option>
+      </ErlangDebugOptions>
+    </option>
+    <option name="erlFlags" value="" />
+    <option name="moduleAndFunction" value="start" />
+    <option name="params" value="" />
+    <module name="test" />
+    <method />
+  </configuration>
+</component>
